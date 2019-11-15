@@ -1,0 +1,23 @@
+body{
+    background-image: radial-gradient(red 20%,orange 50%,green 30%)
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+em{
+    color: blue;
+}
+
+.datos{
+    color: darkslateblue;
+}
+
+.columna {
+    display: flex;
+    flex-direction: column;
+}
+
+.dato {
+    margin-bottom: 32px;
+}
