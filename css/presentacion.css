@@ -1,0 +1,18 @@
+#grad {
+    background-image: linear-gradient(to right, #9D0909,#ffffff,#032169)
+}
+.ti{
+    color:#ffffff;
+}
+.inicio {
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #34DB24;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+}
+.menu , li{
+    display:inline-block;
+}

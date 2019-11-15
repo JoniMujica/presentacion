@@ -1,5 +1,5 @@
 body{
-    background-color: mediumblue;
+    background-image:linear-gradient(to right,yellow,red);
 }
 h1,h2,p{
     display: block;
@@ -7,16 +7,15 @@ h1,h2,p{
     padding-bottom: 20px;
     padding-top: 25px;
 }
-button{
-    display: block;
-    margin: 0 auto;
-    background-color: green;
+.boton_effect {
+    text-decoration:none;
+    padding: 10px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #34DB24;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
 }
-.posem{
-    
-    
- }
-.poswol{
-   
-  
+.espacio{
+    padding-bottom:500px;
 }
